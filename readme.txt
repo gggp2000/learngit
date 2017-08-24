@@ -3,4 +3,4 @@ Git is free soffware distributed under the GPL.
 Git has a mutable index called stage.
 Git tracks changes.
 SVN is stupid.
-Creating a branch is quick.
+Creating a branch is quick AND simple.
