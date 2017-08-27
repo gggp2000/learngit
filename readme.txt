@@ -4,3 +4,4 @@ Git has a mutable index called stage.
 Git tracks changes.
 SVN is stupid.
 Creating a branch is quick and simple.
+test stash
